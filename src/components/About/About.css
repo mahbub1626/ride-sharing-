@@ -1,0 +1,14 @@
+.busShape{
+    /* width: 950px; */
+    /* height: 100%; */
+    /* width: 950px; */
+    /* position: absolute; */
+}
+.bus h2{
+    font-size: 42px;
+    font-weight: 900;
+}
+.bus p{
+    /* width: 596px; */
+    text-align: center;
+}
